@@ -1,0 +1,32 @@
+{
+	"login":{
+			"username":"wangyunju@163.com",
+			"password":"orange0419",
+			"verify":"mx6y",
+			"remember":"1",
+			"pwencode":"0",
+			"browser_key":"9849818247deb249853da175b9ea7312",
+			"referer":"https://www.imooc.com"
+	},
+	"loginout":{
+			"apiname":"cartorder",   
+			"timestamp":"1552478860074",   
+			"token":"d1f6ee773af205b758ea4afdcfc00d24",   
+			"uid":"0"
+	},
+	"submit":{
+			"jsonpcallback":"jQuery1113016267611019698558_1553176082724",   
+			"goods_ids":"1400",   
+			"_":"1553176082729"
+	},
+	"pay":{
+			"jsonpcallback":"jQuery111309662751522707093_1553385583437",
+			"trade_number":"1903171144589176",   
+			"pay_way":"1",   
+			"_":"1553385583442"
+	},
+	"loginout2":{
+			"username":"Mushishi",   
+			"password":"111233344"
+	}
+}

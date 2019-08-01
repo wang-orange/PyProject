@@ -1,0 +1,35 @@
+{
+	"login":{
+			"username":"wangyunju@163.com",
+			"password":"orange0419",
+			"verify":"mx6y",
+			"remember":"1",
+			"pwencode":"0",
+			"browser_key":"9849818247deb249853da175b9ea7312",
+			"referer":"https://www.imooc.com"
+	},
+	"loginout":{
+			"apiname":"cartorder",   
+			"timestamp":"1552478860074",   
+			"token":"d1f6ee773af205b758ea4afdcfc00d24",   
+			"uid":"0"
+	},
+	"submit":{
+			"jsonpcallback":"jQuery1113016267611019698558_1553176082724",   
+			"goods_ids":"1400",   
+			"_":"1553176082729"
+	},
+	"pay":{
+			"jsonpcallback":"jQuery111309662751522707093_1553385583437",
+			"trade_number":"1903171144589176",   
+			"pay_way":"1",   
+			"_":"1553385583442"
+	},
+	"loginout2":{
+			"username":"Mushishi",   
+			"password":"111233344"
+	},
+	"check_list":{
+		"goods_ids":[{"goods_id":"695","type":"1","type_id":"187","status":"1","price":"366.00","ios_price":"388.00","service_lifetime":0,"open_discount":"0","discount_start_time":"0","discount_end_time":"1547913300","discount_price":"0.00","discount_type":"0","dist_ratio":"13","buy_dist_ratio":"12","code_white_list":9999,"using_discount":false,"fullreduce_id":"30","fullreduce_title":"","fullreduce_satisfymoney":"0.00","fullreduce_discountmoney":"0.00","bargain_id":0,"bargain_price":0,"pay_price":"366.00","pay_price_ios":"388.00","code":0,"fullreduce":{"type":1,"reduce":{"299":"30","599":"80"},"st":"1554048000","et":"1555343999"}},{"goods_id":"1320","type":"1","type_id":"303","status":"1","price":"299.00","ios_price":"299.00","service_lifetime":0,"open_discount":"1","discount_start_time":"1545753600","discount_end_time":"1551369300","discount_price":"0.00","discount_type":"3","dist_ratio":"10","buy_dist_ratio":"15","code_white_list":9999,"using_discount":false,"fullreduce_id":"30","fullreduce_title":"","fullreduce_satisfymoney":"0.00","fullreduce_discountmoney":"0.00","bargain_id":0,"bargain_price":0,"pay_price":"299.00","pay_price_ios":"299.00","code":0,"fullreduce":{"type":1,"reduce":{"299":"30","599":"80"},"st":"1554048000","et":"1555343999"}}]
+	}
+}
